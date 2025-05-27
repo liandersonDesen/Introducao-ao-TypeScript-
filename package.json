@@ -1,0 +1,26 @@
+{
+  "name": "introducao-ao-typescript-",
+  "version": "1.0.0",
+  "description": "Introdução ao TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node --watch src/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liandersonDesen/Introducao-ao-TypeScript-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liandersonDesen/Introducao-ao-TypeScript-/issues"
+  },
+  "homepage": "https://github.com/liandersonDesen/Introducao-ao-TypeScript-#readme",
+  "devDependencies": {
+    "@types/node": "^22.15.19",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+}
